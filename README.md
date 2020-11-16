@@ -1,7 +1,8 @@
-- jalan kan webservice (xampp windows, apache linux)
 - copy/clone https://github.com/gagania/notification.git ke folder :
   - windows /xampp/htdocs
-  - linux /var/www/html  
+  - linux /var/www/html 
+- jalan kan webservice (xampp windows, apache linux)
+ 
 - untuk melakukan send sms melalui vendor gunakan :
   asumsi request parameter adalah id customer atau no telp
   http://localhost/notification/api/notification/index/1
